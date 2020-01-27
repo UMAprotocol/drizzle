@@ -1,6 +1,6 @@
 {
   "name": "@umaprotocol/vue-plugin",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A drizzle adaptor for Vue",
   "author": {
     "name": "Amal Sudama",
