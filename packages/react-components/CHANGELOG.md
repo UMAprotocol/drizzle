@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.5.4 (2020-01-27)
+
+
+### Bug Fixes
+
+* use correct propTypes for AccountData ([8ff9a66](https://github.com/trufflesuite/drizzle/commit/8ff9a66)), closes [#4](https://github.com/trufflesuite/drizzle/issues/4)
+
+
+
+
+
 ## 1.5.3 (2020-01-27)
 
 
