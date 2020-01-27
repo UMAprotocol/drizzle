@@ -18,9 +18,9 @@
     "serve:ui": "lerna run serve:ui --parallel --stream",
     "webpack-reports": "lerna run webpack-report --parallel --stream",
     "test": "lerna run test --parallel --stream",
-    "test:store": "lerna run test --stream --scope @drizzle/store",
-    "test:store:verbose": "lerna run test --stream --scope @drizzle/store -- --verbose",
-    "test:vue": "lerna run test --stream --scope @drizzle/vue-plugin"
+    "test:store": "lerna run test --stream --scope @umaprotocol/store",
+    "test:store:verbose": "lerna run test --stream --scope @umaprotocol/store -- --verbose",
+    "test:vue": "lerna run test --stream --scope @umaprotocol/vue-plugin"
   },
   "husky": {
     "hooks": {

@@ -8,7 +8,7 @@ module.exports = {
   entry: './src/index.js',
   output: {
     filename: 'drizzle-store.js',
-    library: '@drizzle/store',
+    library: '@umaprotocol/store',
     libraryTarget: 'umd',
     globalObject: "typeof self !== 'undefined' ? self : this",
     path: path.resolve(__dirname, '../dist')

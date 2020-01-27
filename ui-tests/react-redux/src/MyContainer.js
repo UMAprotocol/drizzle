@@ -1,5 +1,5 @@
 import MyComponent from "./MyComponent";
-import { drizzleConnect } from "@drizzle/react-plugin";
+import { drizzleConnect } from "@umaprotocol/react-plugin";
 
 const mapStateToProps = state => {
   return {
