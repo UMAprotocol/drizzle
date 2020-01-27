@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.5.2](https://github.com/trufflesuite/drizzle/compare/@drizzle/store@1.5.1...@drizzle/store@1.5.2) (2020-01-27)
+
+
+### Bug Fixes
+
+* is-plain-object moved to dependency ([2b5ee1a](https://github.com/trufflesuite/drizzle/commit/2b5ee1a))
+
+
+
+
+
 ## 1.5.1 (2019-10-29)
 
 
