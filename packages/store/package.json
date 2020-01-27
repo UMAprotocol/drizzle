@@ -1,5 +1,5 @@
 {
-  "name": "@drizzle-monorepo/store",
+  "name": "@chrismareestore",
   "version": "1.5.2",
   "description": "A reactive data-store for web3 and smart contracts.",
   "types": "./index.d.ts",
@@ -56,5 +56,5 @@
     "webpack-cli": "^3.3.1",
     "webpack-merge": "^4.2.1"
   },
-  "gitHead": "4fbedb95aec47a70da8d099b4a28729de9ddc547"
+  "gitHead": "b0b3026db1ec89d2b35612954648a4c1acb9fcab"
 }

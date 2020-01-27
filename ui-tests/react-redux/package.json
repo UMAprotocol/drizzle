@@ -3,9 +3,9 @@
   "version": "0.0.3",
   "private": true,
   "dependencies": {
-    "@drizzle-monorepo/react-components": "^1.5.2",
-    "@drizzle-monorepo/react-plugin": "^1.5.2",
-    "@drizzle-monorepo/store": "^1.5.2",
+    "@chrismareereact-components": "^1.5.2",
+    "@chrismareereact-plugin": "^1.5.2",
+    "@chrismareestore": "^1.5.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"

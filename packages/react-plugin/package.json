@@ -1,5 +1,5 @@
 {
-  "name": "@drizzle-monorepo/react-plugin",
+  "name": "@chrismareereact-plugin",
   "version": "1.5.2",
   "description": "Put some Drizzle on your React components.",
   "main": "dist/drizzle-react-plugin.js",
@@ -36,5 +36,5 @@
     "uglifyjs-webpack-plugin": "^1.3.0",
     "webpack": "^3.12.0"
   },
-  "gitHead": "4fbedb95aec47a70da8d099b4a28729de9ddc547"
+  "gitHead": "b0b3026db1ec89d2b35612954648a4c1acb9fcab"
 }
