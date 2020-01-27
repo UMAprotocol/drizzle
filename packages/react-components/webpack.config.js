@@ -7,7 +7,7 @@ module.exports = {
   entry: "./src/index.js",
   output: {
     filename: "drizzle-react-components.js",
-    library: "@drizzle/react-components",
+    library: "@umaprotocol/react-components",
     libraryTarget: "umd",
     path: path.resolve(__dirname, "dist"),
   },
@@ -28,8 +28,8 @@ module.exports = {
     })
   ],
   externals: [
-    "@drizzle/store",
-    "@drizzle/react-plugin",
+    "@umaprotocol/store",
+    "@umaprotocol/react-plugin",
     "prop-types",
     "react",
     "redux",

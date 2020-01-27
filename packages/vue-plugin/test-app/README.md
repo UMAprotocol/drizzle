@@ -1,4 +1,4 @@
-# Sample app that demonstrates using @drizzle/vue-plugin.
+# Sample app that demonstrates using @umaprotocol/vue-plugin.
 
 This folder is a Truffle project with 3 example smart contracts:
 

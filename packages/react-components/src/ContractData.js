@@ -1,4 +1,4 @@
-import { drizzleConnect } from "@drizzle/react-plugin";
+import { drizzleConnect } from "@umaprotocol/react-plugin";
 import React, { Component } from "react";
 import PropTypes from "prop-types";
 

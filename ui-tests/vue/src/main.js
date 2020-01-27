@@ -2,7 +2,7 @@ import Vue from 'vue'
 import App from './App.vue'
 import Vuex from 'vuex'
 
-import drizzleVuePlugin from '@drizzle/vue-plugin'
+import drizzleVuePlugin from '@umaprotocol/vue-plugin'
 import drizzleOptions from './drizzleOptions'
 
 Vue.use(Vuex)

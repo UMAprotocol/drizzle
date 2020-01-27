@@ -1,6 +1,6 @@
 {
   "name": "test-app-vue",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "private": true,
   "scripts": {
     "serve:ui": "vue-cli-service serve --open --port 3002",
@@ -8,8 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "@drizzle/store": "^1.5.1",
-    "@drizzle/vue-plugin": "^0.1.1",
+    "@umaprotocol/store": "^1.5.4",
+    "@umaprotocol/vue-plugin": "^0.1.4",
     "prettier": "^1.18.2",
     "vue": "^2.6.10",
     "vue-toasted": "^1.1.27",

@@ -5,7 +5,7 @@ module.exports = {
   entry: './src/index.js',
   output: {
     filename: 'drizzle-react-plugin.js',
-    library: '@drizzle/react-plugin',
+    library: '@umaprotocol/react-plugin',
     libraryTarget: 'umd',
     path: path.resolve(__dirname, 'dist')
   },
@@ -24,7 +24,7 @@ module.exports = {
     })
   ],
   externals: [
-    '@drizzle/store',
+    '@umaprotocol/store',
     'prop-types',
     'react',
     'redux'
