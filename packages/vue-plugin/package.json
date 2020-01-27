@@ -1,5 +1,5 @@
 {
-  "name": "@chrismareevue-plugin",
+  "name": "@chrismaree/vue-plugin",
   "version": "0.1.2",
   "description": "A drizzle adaptor for Vue",
   "author": {
@@ -25,7 +25,7 @@
     "*.md"
   ],
   "dependencies": {
-    "@chrismareestore": "^1.5.2",
+    "@chrismaree/store": "^1.5.2",
     "lodash": "^4.17.11",
     "rxjs": "^6.5.2",
     "rxjs-compat": "^6.5.2"
