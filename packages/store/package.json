@@ -1,5 +1,5 @@
 {
-  "name": "@chrismaree/store",
+  "name": "@umaprotocol/store",
   "version": "1.5.2",
   "description": "A reactive data-store for web3 and smart contracts.",
   "types": "./index.d.ts",

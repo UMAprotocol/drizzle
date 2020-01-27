@@ -1,5 +1,5 @@
 {
-  "name": "@chrismaree/react-plugin",
+  "name": "@umaprotocol/react-plugin",
   "version": "1.5.2",
   "description": "Put some Drizzle on your React components.",
   "main": "dist/drizzle-react-plugin.js",
