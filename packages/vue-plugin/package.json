@@ -1,5 +1,5 @@
 {
-  "name": "@drizzle/vue-plugin",
+  "name": "@drizzle-monorepo/vue-plugin",
   "version": "0.1.2",
   "description": "A drizzle adaptor for Vue",
   "author": {
@@ -25,7 +25,7 @@
     "*.md"
   ],
   "dependencies": {
-    "@drizzle/store": "^1.5.2",
+    "@drizzle-monorepo/store": "^1.5.2",
     "lodash": "^4.17.11",
     "rxjs": "^6.5.2",
     "rxjs-compat": "^6.5.2"
@@ -58,5 +58,6 @@
     "drizzle",
     "ethereum",
     "vue"
-  ]
+  ],
+  "gitHead": "4fbedb95aec47a70da8d099b4a28729de9ddc547"
 }
