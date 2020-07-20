@@ -35,7 +35,7 @@
     "is-plain-object": "^2.0.4",
     "redux": "^4.0.1",
     "redux-saga": "^0.16.0",
-    "web3": "^1.2.1"
+    "web3": "1.2.7"
   },
   "devDependencies": {
     "@babel/core": "^7.4.4",
