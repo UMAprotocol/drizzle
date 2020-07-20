@@ -1,6 +1,6 @@
 {
   "name": "@umaprotocol/store",
-  "version": "1.5.8",
+  "version": "1.5.9",
   "description": "A reactive data-store for web3 and smart contracts.",
   "types": "./index.d.ts",
   "main": "./dist/drizzle-store.js",
