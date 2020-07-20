@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.9](https://github.com/UMAprotocol/drizzle/compare/test-app-react-redux@0.0.8...test-app-react-redux@0.0.9) (2020-07-20)
+
+**Note:** Version bump only for package test-app-react-redux
+
+
+
+
+
 ## 0.0.8 (2020-07-20)
 
 **Note:** Version bump only for package test-app-react-redux

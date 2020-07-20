@@ -1,11 +1,11 @@
 {
   "name": "test-app-react-context",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "private": true,
   "dependencies": {
-    "@umaprotocol/react-components": "^1.5.7",
+    "@umaprotocol/react-components": "^1.5.8",
     "@umaprotocol/react-plugin": "^1.5.7",
-    "@umaprotocol/store": "^1.5.8",
+    "@umaprotocol/store": "^1.5.10",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"

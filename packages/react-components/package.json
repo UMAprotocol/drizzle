@@ -1,6 +1,6 @@
 {
   "name": "@umaprotocol/react-components",
-  "version": "1.5.7",
+  "version": "1.5.8",
   "description": "Put some Drizzle on your React components.",
   "main": "dist/drizzle-react-components.js",
   "scripts": {
@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "@babel/preset-react": "^7.0.0",
-    "@umaprotocol/store": "^1.5.8",
+    "@umaprotocol/store": "^1.5.10",
     "babel-loader": "^8.0.6",
     "react-redux": "^5.1.1",
     "redux": "^4.0.4",
